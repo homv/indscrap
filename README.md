@@ -1,2 +1,2 @@
 # indscrap
-a news scrapper to extract articles from India Today
+Crawler for India Today to extract articles of a particular category
